@@ -49,3 +49,12 @@ $ @SomeOne followed the bot
 $ Image generation finished
 $ Tweet sent!
 ```
+## Built With
+
+* [Node JS](https://nodejs.org/en/) - The server
+* [Processing](http://processing.org/) - For generating the image
+* [Twit Package](https://github.com/ttezel/twit) - Node Package to easily interact with the Twitter API
+* [Tutorial from Daniel Shiffman](https://www.youtube.com/watch?v=RF5_MPSNAtU) - Full twitter bot tutorial that I followed. 
+
+Thanks to Daniel Shiffman for his great tutorial!  
+Visit Daniel Shiffman [Youtube channel](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) to see more project.

@@ -6,7 +6,7 @@ Currently, the bot is running with this account : [@TheBotLyon](https://twitter.
 ## Functionality
 * When someone follow the bot, the bot replies with a thank you note and an "unique" image.  
 
-![alt tag](http://i.imgur.com/9ZbaeRu.png?1)
+![alt tag](pic.twitter.com/xRJHcD9B0i)
 
 ## Getting Started
 

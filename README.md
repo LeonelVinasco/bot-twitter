@@ -21,11 +21,11 @@ To make the bot working, you will need a twitter account with these informations
 * access_token
 * access_token_secret  
 
-For more information, please see : [dev.twitter.com](https://dev.twitter.com/oauth/overview/application-owner-access-tokens)
+For more information, please see : [dev.twitter.com/oauth/overview/application-owner-access-tokens](https://dev.twitter.com/oauth/overview/application-owner-access-tokens)
 
 ### Installing
 
-One you have clone / downloaded the repository, you have to install the twit package which will interract with the Twitter API.  
+Once you have clone / downloaded the repository, you have to install the twit package which will interract with the Twitter API.  
 
 ```
 $ npm install
